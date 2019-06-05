@@ -1,0 +1,6 @@
+msg: --github-----/config/profiles/dev/aaa-dev.yml----
+dfbb:
+  user:
+    name: 'github-悟空-dev'
+    age: 8000
+    sal: 60000.0
